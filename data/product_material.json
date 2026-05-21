@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "name": "Hard plastic",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 2,
+    "name": "Hard plastic - HDPE",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 3,
+    "name": "Hard plastic - PET",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 4,
+    "name": "Hard plastic - rPET",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 5,
+    "name": "Hard plastic - PP",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 6,
+    "name": "Hard plastic - PS",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 7,
+    "name": "Hard plastic - Bio-plastic",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 8,
+    "name": "Hard plastic - unknown",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 9,
+    "name": "Oxo-degradable plastic",
+    "category": "Hard plastic"
+  },
+  {
+    "id": 10,
+    "name": "Compostable plastic - PLA",
+    "category": "Compostable plastic"
+  },
+  {
+    "id": 11,
+    "name": "Compostable plastic - PHA",
+    "category": "Compostable plastic"
+  },
+  {
+    "id": 12,
+    "name": "Compostable plastic - unknown",
+    "category": "Compostable plastic"
+  },
+  {
+    "id": 13,
+    "name": "Compostable plastic film - PLA",
+    "category": "Compostable plastic film"
+  },
+  {
+    "id": 14,
+    "name": "Compostable plastic film - PHA",
+    "category": "Compostable plastic film"
+  },
+  {
+    "id": 15,
+    "name": "Compostable plastic film - unknown",
+    "category": "Compostable plastic film"
+  },
+  {
+    "id": 16,
+    "name": "Plastic film",
+    "category": "Plastic film"
+  },
+  {
+    "id": 17,
+    "name": "Plastic film - PP",
+    "category": "Plastic film"
+  },
+  {
+    "id": 18,
+    "name": "Plastic film - unknown",
+    "category": "Plastic film"
+  },
+  {
+    "id": 19,
+    "name": "Multilayer Plastic Film",
+    "category": "Plastic film"
+  },
+  {
+    "id": 20,
+    "name": "Flexible plastic",
+    "category": "Plastic film"
+  },
+  {
+    "id": 21,
+    "name": "Oxo-degradable plastic film",
+    "category": "Plastic film"
+  },
+  {
+    "id": 22,
+    "name": "Paper",
+    "category": "Paper / Paperboard"
+  },
+  {
+    "id": 23,
+    "name": "Paperboard",
+    "category": "Paper / Paperboard"
+  },
+  {
+    "id": 24,
+    "name": "Compostable paper",
+    "category": "Paper / Paperboard"
+  },
+  {
+    "id": 25,
+    "name": "Compostable paperboard",
+    "category": "Paper / Paperboard"
+  },
+  {
+    "id": 26,
+    "name": "Aseptic carton",
+    "category": "Paper / Paperboard"
+  },
+  {
+    "id": 27,
+    "name": "Foam - EPS",
+    "category": "Foam"
+  },
+  {
+    "id": 28,
+    "name": "Foam - biodegradable",
+    "category": "Foam"
+  },
+  {
+    "id": 29,
+    "name": "Aluminum",
+    "category": "Metal"
+  },
+  {
+    "id": 30,
+    "name": "Metal",
+    "category": "Metal"
+  },
+  {
+    "id": 31,
+    "name": "Glass",
+    "category": "Glass"
+  },
+  {
+    "id": 32,
+    "name": "Wood/Natural materials",
+    "category": "Wood / Natural materials"
+  },
+  {
+    "id": 33,
+    "name": "Cloth",
+    "category": "Other"
+  },
+  {
+    "id": 34,
+    "name": "Plastic Fabric",
+    "category": "Other"
+  },
+  {
+    "id": 35,
+    "name": "Silicone",
+    "category": "Other"
+  },
+  {
+    "id": 36,
+    "name": "Other",
+    "category": "Other"
+  },
+  {
+    "id": 37,
+    "name": "Multimaterial Paperboard Canister",
+    "category": "Paper / Paperboard"
+  },
+  {
+    "id": 38,
+    "name": "Plastic film or multilayer plastic film",
+    "category": "Plastic film"
+  },
+  {
+    "id": 39,
+    "name": "Compostable plastic",
+    "category": "Compostable plastic"
+  },
+  {
+    "id": 40,
+    "name": "Lined Burlap",
+    "category": "Wood / Natural materials"
+  },
+  {
+    "id": 41,
+    "name": "Paper or paperboard",
+    "category": "Paper / Paperboard"
+  }
+]

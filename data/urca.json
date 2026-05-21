@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "urca_hierarchy": 1,
+    "label_full": "Large city (> 5 million)",
+    "label_aggr": "Large city (>1 mil.)"
+  },
+  {
+    "id": 2,
+    "urca_hierarchy": 2,
+    "label_full": "Large city (1 \u2013 5 million)",
+    "label_aggr": "Large city (>1 mil.)"
+  },
+  {
+    "id": 3,
+    "urca_hierarchy": 3,
+    "label_full": "Intermediate city (500,000 \u2013 1 million)",
+    "label_aggr": "Intermediate city (0.25 - 1 mil.)"
+  },
+  {
+    "id": 4,
+    "urca_hierarchy": 4,
+    "label_full": "Intermediate city (250,000 \u2013 500,000)",
+    "label_aggr": "Intermediate city (0.25 - 1 mil.)"
+  },
+  {
+    "id": 5,
+    "urca_hierarchy": 5,
+    "label_full": "Small city (100,000 \u2013 250,000)",
+    "label_aggr": "Small cities and towns (0.02 - 0.25 mil.)"
+  },
+  {
+    "id": 6,
+    "urca_hierarchy": 6,
+    "label_full": "Small city (50,000 \u2013 100,000)",
+    "label_aggr": "Small cities and towns (0.02 - 0.25 mil.)"
+  },
+  {
+    "id": 7,
+    "urca_hierarchy": 7,
+    "label_full": "Town (20,000 \u2013 50,000)",
+    "label_aggr": "Small cities and towns (0.02 - 0.25 mil.)"
+  },
+  {
+    "id": 8,
+    "urca_hierarchy": 8,
+    "label_full": "<1 hour to large city (> 5 million)",
+    "label_aggr": "<1 hour to large city"
+  },
+  {
+    "id": 9,
+    "urca_hierarchy": 9,
+    "label_full": "<1 hour to large city (1 \u2013 5 million)",
+    "label_aggr": "<1 hour to large city"
+  },
+  {
+    "id": 10,
+    "urca_hierarchy": 10,
+    "label_full": "<1 hour to intermediate city (500,000 \u2013 1 million)",
+    "label_aggr": "<1 hour to intermediate city"
+  },
+  {
+    "id": 11,
+    "urca_hierarchy": 11,
+    "label_full": "<1 hour to intermediate city (250,000 \u2013 500,000)",
+    "label_aggr": "<1 hour to intermediate city"
+  },
+  {
+    "id": 12,
+    "urca_hierarchy": 12,
+    "label_full": "<1 hour to small city (100,000 \u2013 250,000)",
+    "label_aggr": "<1 hour to small city or town"
+  },
+  {
+    "id": 13,
+    "urca_hierarchy": 13,
+    "label_full": "<1 hour to small city (50,000 \u2013 100,000)",
+    "label_aggr": "<1 hour to small city or town"
+  },
+  {
+    "id": 14,
+    "urca_hierarchy": 14,
+    "label_full": "<1 hour to town (20,000 \u2013 50,000)",
+    "label_aggr": "<1 hour to small city or town"
+  },
+  {
+    "id": 15,
+    "urca_hierarchy": 15,
+    "label_full": "1-2 hours to large city (> 5 million)",
+    "label_aggr": "1-2 hours to large city"
+  },
+  {
+    "id": 16,
+    "urca_hierarchy": 16,
+    "label_full": "1-2 hours to large city (1 \u2013 5 million)",
+    "label_aggr": "1-2 hours to large city"
+  },
+  {
+    "id": 17,
+    "urca_hierarchy": 17,
+    "label_full": "1-2 hours to intermediate city (500,000 \u2013 1 million)",
+    "label_aggr": "1-2 hours to intermediate city"
+  },
+  {
+    "id": 18,
+    "urca_hierarchy": 18,
+    "label_full": "1-2 hours to intermediate city (250,000 \u2013 500,000)",
+    "label_aggr": "1-2 hours to intermediate city"
+  },
+  {
+    "id": 19,
+    "urca_hierarchy": 19,
+    "label_full": "1-2 hours to small city (100,000 \u2013 250,000)",
+    "label_aggr": "1-2 hours to small city or town"
+  },
+  {
+    "id": 20,
+    "urca_hierarchy": 20,
+    "label_full": "1-2 hours to small city (50,000 \u2013 100,000)",
+    "label_aggr": "1-2 hours to small city or town"
+  },
+  {
+    "id": 21,
+    "urca_hierarchy": 21,
+    "label_full": "1-2 hours to town (20,000 \u2013 50,000)",
+    "label_aggr": "1-2 hours to small city or town"
+  },
+  {
+    "id": 22,
+    "urca_hierarchy": 22,
+    "label_full": "2-3 hours to large city (> 5 million)",
+    "label_aggr": "2-3 hours to large city"
+  },
+  {
+    "id": 23,
+    "urca_hierarchy": 23,
+    "label_full": "2-3 hours to large city (1 \u2013 5 million)",
+    "label_aggr": "2-3 hours to large city"
+  },
+  {
+    "id": 24,
+    "urca_hierarchy": 24,
+    "label_full": "2-3 hours to intermediate city (500,000 \u2013 1 million)",
+    "label_aggr": "2-3 hours to intermediate city"
+  },
+  {
+    "id": 25,
+    "urca_hierarchy": 25,
+    "label_full": "2-3 hours to intermediate city (250,000 \u2013 500,000)",
+    "label_aggr": "2-3 hours to intermediate city"
+  },
+  {
+    "id": 26,
+    "urca_hierarchy": 26,
+    "label_full": "2-3 hours to small city (100,000 \u2013 250,000)",
+    "label_aggr": "2-3 hours to small city or town"
+  },
+  {
+    "id": 27,
+    "urca_hierarchy": 27,
+    "label_full": "2-3 hours to small city (50,000 \u2013 100,000)",
+    "label_aggr": "2-3 hours to small city or town"
+  },
+  {
+    "id": 28,
+    "urca_hierarchy": 28,
+    "label_full": "2-3 hours to town (20,000 \u2013 50,000)",
+    "label_aggr": "2-3 hours to small city or town"
+  },
+  {
+    "id": 29,
+    "urca_hierarchy": 29,
+    "label_full": "Dispersed towns (>3 hours to any city)",
+    "label_aggr": "Dispersed towns"
+  },
+  {
+    "id": 30,
+    "urca_hierarchy": 30,
+    "label_full": "Hinterland (>3 hours to any city)",
+    "label_aggr": "Hinterland"
+  }
+]

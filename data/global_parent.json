@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "PepsiCo, Inc.",
+    "city": "Purchase",
+    "country": "USA",
+    "latitude": "41.03520000",
+    "longitude": "-73.69370000",
+    "notes": "Owns: Lay's, Gatorade, Pepsi, 7Up, Tropicana, Quaker, Doritos, Cheetos, Fritos"
+  },
+  {
+    "id": 2,
+    "name": "The Coca-Cola Company",
+    "city": "Atlanta",
+    "country": "USA",
+    "latitude": "33.74880000",
+    "longitude": "-84.38770000",
+    "notes": "Owns: Coca-Cola, Sprite, Fanta, Fresca, Powerade, Dasani, Minute Maid"
+  },
+  {
+    "id": 3,
+    "name": "Nestl\u00e9 S.A.",
+    "city": "Vevey",
+    "country": "Switzerland",
+    "latitude": "46.46280000",
+    "longitude": "6.84190000",
+    "notes": "Owns: KitKat (ex-US), Milo, Perrier, Evian, Nescaf\u00e9, Maggi, Munch"
+  },
+  {
+    "id": 4,
+    "name": "Mars, Incorporated",
+    "city": "McLean",
+    "country": "USA",
+    "latitude": "38.93390000",
+    "longitude": "-77.17730000",
+    "notes": "Owns: Snickers, M&Ms, Skittles, Mars, Twix, Milky Way, Starburst, Wrigley, Gatorade (via Wrigley)"
+  },
+  {
+    "id": 5,
+    "name": "The Hershey Company",
+    "city": "Hershey",
+    "country": "USA",
+    "latitude": "40.29800000",
+    "longitude": "-76.65490000",
+    "notes": "Owns: Hershey's, Reese's, KitKat (USA), SkinnyPop, Jolly Rancher"
+  },
+  {
+    "id": 6,
+    "name": "Mondel\u0113z International",
+    "city": "Chicago",
+    "country": "USA",
+    "latitude": "41.87810000",
+    "longitude": "-87.62980000",
+    "notes": "Owns: Oreo, Cadbury, Milka, Toblerone, Trident, Halls, Ritz, Sour Patch Kids"
+  },
+  {
+    "id": 7,
+    "name": "Ferrero Group",
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "latitude": "49.81530000",
+    "longitude": "6.12960000",
+    "notes": "Owns: Nutella, Kinder, Ferrero Rocher, Tic Tac, Butterfinger, Crunch, Nerds (via acquired brands)"
+  },
+  {
+    "id": 8,
+    "name": "Perfetti Van Melle",
+    "city": "Lainate",
+    "country": "Italy",
+    "latitude": "45.56270000",
+    "longitude": "9.01800000",
+    "notes": "Owns: Mentos, Alpenliebe, Big Babol, Chupa Chups, Airheads"
+  },
+  {
+    "id": 9,
+    "name": "Unilever",
+    "city": "London",
+    "country": "UK",
+    "latitude": "51.50720000",
+    "longitude": "-0.12760000",
+    "notes": "Owns: Magnum, Ben & Jerry's, Lipton, Knorr, Dove"
+  },
+  {
+    "id": 10,
+    "name": "Danone S.A.",
+    "city": "Paris",
+    "country": "France",
+    "latitude": "48.85660000",
+    "longitude": "2.35220000",
+    "notes": "Owns: Evian, Volvic, Aqua (Tirta Investama), Activia, Alpro"
+  },
+  {
+    "id": 11,
+    "name": "British American Tobacco",
+    "city": "London",
+    "country": "UK",
+    "latitude": "51.50720000",
+    "longitude": "-0.12760000",
+    "notes": "Owns: Lucky Strike, Pall Mall, Viceroy, Dunhill, Camel (partial)"
+  },
+  {
+    "id": 12,
+    "name": "Philip Morris International",
+    "city": "Stamford",
+    "country": "USA",
+    "latitude": "41.05340000",
+    "longitude": "-73.53870000",
+    "notes": "Owns: Marlboro (international), L&M, Chesterfield"
+  },
+  {
+    "id": 13,
+    "name": "Altria Group",
+    "city": "Richmond",
+    "country": "USA",
+    "latitude": "37.54070000",
+    "longitude": "-77.43600000",
+    "notes": "Owns: Marlboro (USA), Skoal, Copenhagen, On!"
+  },
+  {
+    "id": 14,
+    "name": "Japan Tobacco International",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "latitude": "46.20440000",
+    "longitude": "6.14320000",
+    "notes": "Owns: Winston, Camel (partial), Mild Seven"
+  },
+  {
+    "id": 15,
+    "name": "Indofood",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "latitude": "-6.19440000",
+    "longitude": "106.82290000",
+    "notes": "Owns: Indomie, Chitato, Pringles (Indonesia), IndoLakto"
+  },
+  {
+    "id": 16,
+    "name": "Mayora Group",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "latitude": "-6.16740000",
+    "longitude": "106.76370000",
+    "notes": "Owns: Kopiko, Energen, Beng Beng, Torabika"
+  },
+  {
+    "id": 17,
+    "name": "Wings Group",
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "latitude": "-7.25750000",
+    "longitude": "112.75210000",
+    "notes": "Owns: Floridina, Mie Sedaap, So Klin"
+  },
+  {
+    "id": 18,
+    "name": "Keurig Dr Pepper",
+    "city": "Burlington",
+    "country": "USA",
+    "latitude": "42.50480000",
+    "longitude": "-71.19560000",
+    "notes": "Owns: Dr Pepper, Snapple, 7UP, A&W, Sunkist, RC Cola, Mott's"
+  },
+  {
+    "id": 19,
+    "name": "Arcor Group",
+    "city": "C\u00f3rdoba",
+    "country": "Argentina",
+    "latitude": "-31.41670000",
+    "longitude": "-64.18330000",
+    "notes": "Owns: Arcor, Bon o Bon, Butter Toffee"
+  },
+  {
+    "id": 20,
+    "name": "Lotte Group",
+    "city": "Seoul",
+    "country": "South Korea",
+    "latitude": "37.56650000",
+    "longitude": "126.97800000",
+    "notes": "Owns: Lotte, Xylitol, Koala's March"
+  },
+  {
+    "id": 21,
+    "name": "Yildiz Holding",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "latitude": "41.00820000",
+    "longitude": "28.97840000",
+    "notes": "Owns: Ulker, Godiva, McVitie's, DeMet's Candy"
+  },
+  {
+    "id": 22,
+    "name": "ITC Limited",
+    "city": "Kolkata",
+    "country": "India",
+    "latitude": "22.57260000",
+    "longitude": "88.36390000",
+    "notes": "Owns: Bingo!, Sunfeast, Dark Fantasy"
+  },
+  {
+    "id": 23,
+    "name": "Grupo Bimbo",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "latitude": "19.43260000",
+    "longitude": "-99.13320000",
+    "notes": "Owns: Marinela, Twinkie, Entenmann's, Sara Lee"
+  },
+  {
+    "id": 24,
+    "name": "General Mills",
+    "city": "Minneapolis",
+    "country": "USA",
+    "latitude": "44.97780000",
+    "longitude": "-93.26500000",
+    "notes": "Owns: Cheerios, Chex, Nature Valley, Pillsbury, H\u00e4agen-Dazs"
+  },
+  {
+    "id": 25,
+    "name": "Campbell's Company",
+    "city": "Camden",
+    "country": "USA",
+    "latitude": "39.92590000",
+    "longitude": "-75.11960000",
+    "notes": "Owns: Tom's, Snyder's-Lance, Pepperidge Farm, V8, Kettle Brand"
+  },
+  {
+    "id": 26,
+    "name": "Suntory Holdings",
+    "city": "Osaka",
+    "country": "Japan",
+    "latitude": "34.69370000",
+    "longitude": "135.50230000",
+    "notes": "Owns: Suntory, Lucozade, Orangina, Schweppes (partial)"
+  },
+  {
+    "id": 27,
+    "name": "Aldi Nord",
+    "city": "Essen",
+    "country": "Germany",
+    "latitude": "51.45560000",
+    "longitude": "7.01160000",
+    "notes": "Owns: Trader Joe's"
+  },
+  {
+    "id": 28,
+    "name": "Amazon",
+    "city": "Seattle",
+    "country": "USA",
+    "latitude": "47.60620000",
+    "longitude": "-122.33210000",
+    "notes": "Owns: Whole Foods Market, 365 brand"
+  },
+  {
+    "id": 29,
+    "name": "Refresco Group",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "latitude": "51.92440000",
+    "longitude": "4.47770000",
+    "notes": "Owns: Cott, various private label beverages"
+  },
+  {
+    "id": 30,
+    "name": "Orion Group",
+    "city": "Seoul",
+    "country": "South Korea",
+    "latitude": "37.56650000",
+    "longitude": "126.97800000",
+    "notes": "Owns: Orion, Choco Pie, Turtle Chips"
+  },
+  {
+    "id": 31,
+    "name": "National Grape Cooperative Association, Inc.",
+    "city": "Westfield",
+    "country": "USA",
+    "latitude": "42.32560000",
+    "longitude": "-79.57810000",
+    "notes": "Owns the Welch's brand"
+  }
+]
