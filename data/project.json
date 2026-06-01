@@ -335,7 +335,7 @@
     "apec": 1,
     "worldbank_region": "North America",
     "worldbank_income": "High",
-    "coastal": 0,
+    "coastal": 1,
     "urca_id": 19,
     "year": 2022
   },
@@ -505,7 +505,7 @@
     "apec": 1,
     "worldbank_region": "North America",
     "worldbank_income": "High",
-    "coastal": 0,
+    "coastal": 1,
     "urca_id": 18,
     "year": 2020
   },
