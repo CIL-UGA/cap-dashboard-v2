@@ -11808,5 +11808,745 @@
     "longitude": "-89.9549678",
     "notes": null,
     "created_at": "2026-05-08 19:43:17"
+  },
+  {
+    "id": 1184,
+    "name": "Blenz Bowls (The Creamery at EHS)",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9432743",
+    "longitude": "-83.3749998",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1185,
+    "name": "Einstein Bros. Bagels ",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9428546",
+    "longitude": "-83.3762853",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1186,
+    "name": "Panda Express at Tate",
+    "vendor_type": "fast food",
+    "project_id": 49,
+    "latitude": "33.9507767",
+    "longitude": "-83.3749640",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1187,
+    "name": "Jittery Joes East Campus",
+    "vendor_type": "coffee shop",
+    "project_id": 49,
+    "latitude": "33.9393201",
+    "longitude": "-83.3705831",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1188,
+    "name": "FujiSan",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": null,
+    "longitude": null,
+    "notes": "GPS inferred from survey sequence context (original export had 0,0)",
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1189,
+    "name": "Starbucks - Tate",
+    "vendor_type": "coffee shop",
+    "project_id": 49,
+    "latitude": "33.9503530",
+    "longitude": "-83.3748596",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1190,
+    "name": "Your Pie - Tate",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9507138",
+    "longitude": "-83.3749197",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1191,
+    "name": "Chick-Fil-A - Tate",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9505179",
+    "longitude": "-83.3750503",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1192,
+    "name": "Jittery Joes at MLC",
+    "vendor_type": "coffee shop",
+    "project_id": 49,
+    "latitude": "33.9516361",
+    "longitude": "-83.3752303",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1193,
+    "name": "Barberitos at Tate",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9506765",
+    "longitude": "-83.3757663",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1194,
+    "name": "Jittery Joes in Science Library",
+    "vendor_type": "coffee shop",
+    "project_id": 49,
+    "latitude": "33.9461468",
+    "longitude": "-83.3749393",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1195,
+    "name": "Jittery Joes",
+    "vendor_type": "coffee shop",
+    "project_id": 49,
+    "latitude": "33.9548427",
+    "longitude": "-83.3748514",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1196,
+    "name": "Einstein Bros",
+    "vendor_type": "coffee shop",
+    "project_id": 49,
+    "latitude": "33.9545414",
+    "longitude": "-83.3736415",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1197,
+    "name": "Newks Eatery - Amos hall",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9520643",
+    "longitude": "-83.3775002",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1198,
+    "name": "Dunkin Donuts at Amos Hall",
+    "vendor_type": "fast casual",
+    "project_id": 49,
+    "latitude": "33.9520450",
+    "longitude": "-83.3774887",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1199,
+    "name": "HeyTea",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7044009",
+    "longitude": "-95.5531309",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1200,
+    "name": "FengCha",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7025460",
+    "longitude": "-95.5532280",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1201,
+    "name": "Cutting Board",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.7031846",
+    "longitude": "-95.5550431",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1202,
+    "name": "R&B Tea",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7038740",
+    "longitude": "-95.6110430",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1203,
+    "name": "di an pho",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.7038990",
+    "longitude": "-95.6111240",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1204,
+    "name": "Dominos ",
+    "vendor_type": "fast food",
+    "project_id": 48,
+    "latitude": null,
+    "longitude": null,
+    "notes": "GPS inferred from survey sequence context (original export had 0,0)",
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1205,
+    "name": "nhan quan ",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.7032518",
+    "longitude": "-95.6166168",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1206,
+    "name": "Wazobia Kitchen ",
+    "vendor_type": "grocery store deli",
+    "project_id": 48,
+    "latitude": "29.6893944",
+    "longitude": "-95.5695173",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1207,
+    "name": "Pizza Hut",
+    "vendor_type": "fast food",
+    "project_id": 48,
+    "latitude": "29.6889728",
+    "longitude": "-95.5679599",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1208,
+    "name": "McDonald's ",
+    "vendor_type": "fast food",
+    "project_id": 48,
+    "latitude": "29.6884190",
+    "longitude": "-95.5677800",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1209,
+    "name": "Tue Tam Vegatarian Restaurant ",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.7042420",
+    "longitude": "-95.5811490",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1210,
+    "name": "Daboba",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7041530",
+    "longitude": "-95.5811860",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1211,
+    "name": "Tastea ",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7048170",
+    "longitude": "-95.5857500",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1212,
+    "name": "Latin Variedades Tropical Fruit Drinks",
+    "vendor_type": "street vendor",
+    "project_id": 48,
+    "latitude": "29.6622287",
+    "longitude": "-95.6198373",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1213,
+    "name": "Now and Forever ",
+    "vendor_type": "gas station to go",
+    "project_id": 48,
+    "latitude": "29.6623706",
+    "longitude": "-95.6184436",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1214,
+    "name": "Sara\u2019s Halal Burgers and NYC Gyro",
+    "vendor_type": "fast casual",
+    "project_id": 48,
+    "latitude": "29.6624250",
+    "longitude": "-95.6197570",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1215,
+    "name": "Burger King",
+    "vendor_type": "fast food",
+    "project_id": 48,
+    "latitude": "29.6475659",
+    "longitude": "-95.5982963",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1216,
+    "name": "I Heart Boba",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.6573345",
+    "longitude": "-95.5851413",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1217,
+    "name": "(unnamed vendor)",
+    "vendor_type": "street vendor",
+    "project_id": 48,
+    "latitude": null,
+    "longitude": null,
+    "notes": "GPS inferred from survey sequence context (original export had 0,0)",
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1218,
+    "name": "Taqueria Mi Lindo",
+    "vendor_type": "street vendor",
+    "project_id": 48,
+    "latitude": "29.6610115",
+    "longitude": "-95.5982320",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1219,
+    "name": "Burger King",
+    "vendor_type": "fast food",
+    "project_id": 48,
+    "latitude": "29.6772633",
+    "longitude": "-95.5991884",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1220,
+    "name": "Popeye\u2019s",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.6767920",
+    "longitude": "-95.5971330",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1221,
+    "name": "Tom N Toms Coffee",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7044595",
+    "longitude": "-95.5489472",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1222,
+    "name": "J tea",
+    "vendor_type": "coffee shop",
+    "project_id": 48,
+    "latitude": "29.7044050",
+    "longitude": "-95.5906042",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1223,
+    "name": "D&G Caribbean ",
+    "vendor_type": "fast casual",
+    "project_id": 47,
+    "latitude": "26.0043940",
+    "longitude": "-80.2059690",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1224,
+    "name": "Wendy\u2019s",
+    "vendor_type": "fast food",
+    "project_id": 47,
+    "latitude": "26.0065020",
+    "longitude": "-80.2078350",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1225,
+    "name": "Pollo Tropical",
+    "vendor_type": "fast food",
+    "project_id": 47,
+    "latitude": "26.0072530",
+    "longitude": "-80.2069210",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1226,
+    "name": "El Tipica Guanaco",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0090957",
+    "longitude": "-80.2294953",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1227,
+    "name": "Las Maravillas del Peru ",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0175865",
+    "longitude": "-80.2246747",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1228,
+    "name": "Jaydine",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0173892",
+    "longitude": "-80.2244036",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1229,
+    "name": "La Joya Latina Restaurant ",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0411102",
+    "longitude": "-80.2345853",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1230,
+    "name": "Gogijya Korean BBQ Restaurant ",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0456894",
+    "longitude": "-80.2261481",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1231,
+    "name": "Hog and Hen",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0130554",
+    "longitude": "-80.1759190",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1232,
+    "name": "The Cage Bar & Grill",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0452480",
+    "longitude": "-80.2264483",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1233,
+    "name": "Piccadilly Cafeteria",
+    "vendor_type": "fast casual",
+    "project_id": 47,
+    "latitude": "26.0102624",
+    "longitude": "-80.1884680",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1234,
+    "name": "Tipico Rinconcito",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0179472",
+    "longitude": "-80.2014462",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1235,
+    "name": "Dunkin",
+    "vendor_type": "fast food",
+    "project_id": 47,
+    "latitude": "26.0337681",
+    "longitude": "-80.1590717",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1236,
+    "name": "Italian ",
+    "vendor_type": "gas station to go",
+    "project_id": 47,
+    "latitude": "26.0329201",
+    "longitude": "-80.1629662",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1237,
+    "name": "Jo Jo\u2019s Pizza",
+    "vendor_type": "fast casual",
+    "project_id": 47,
+    "latitude": "26.0331105",
+    "longitude": "-80.1570508",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1238,
+    "name": "McDonalds",
+    "vendor_type": "fast food",
+    "project_id": 47,
+    "latitude": null,
+    "longitude": null,
+    "notes": "GPS inferred from survey sequence context (original export had 0,0)",
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1239,
+    "name": "Alpha",
+    "vendor_type": "fast casual",
+    "project_id": 48,
+    "latitude": "29.6581620",
+    "longitude": "-95.5712840",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1240,
+    "name": "Aga's Restaurant & Catering",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.6491741",
+    "longitude": "-95.5674960",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1241,
+    "name": "Brooklyn Water Bagel",
+    "vendor_type": "fast casual",
+    "project_id": 47,
+    "latitude": "26.0481360",
+    "longitude": "-80.1805337",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1242,
+    "name": "Grand Cafe Hollywood",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0479633",
+    "longitude": "-80.1809891",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1243,
+    "name": "DiSalvo\u2019s Pizza & Italian Restaurant",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0467991",
+    "longitude": "-80.1914320",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1244,
+    "name": "Mystic Coffee",
+    "vendor_type": "coffee shop",
+    "project_id": 47,
+    "latitude": "26.0104703",
+    "longitude": "-80.1474585",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1245,
+    "name": "CAO",
+    "vendor_type": "bakery",
+    "project_id": 47,
+    "latitude": "26.0112483",
+    "longitude": "-80.1552117",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1246,
+    "name": "Jacks Diner",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0207097",
+    "longitude": "-80.1430861",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1247,
+    "name": "Mad Chicken",
+    "vendor_type": "fast casual",
+    "project_id": 47,
+    "latitude": "26.0214994",
+    "longitude": "-80.1434452",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1248,
+    "name": "Federal Spa and Restaurant",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0156461",
+    "longitude": "-80.1399182",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1249,
+    "name": "The Food Corner",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0197829",
+    "longitude": "-80.1430584",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1250,
+    "name": "The Food Corner",
+    "vendor_type": null,
+    "project_id": 47,
+    "latitude": "26.0198868",
+    "longitude": "-80.1429792",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1251,
+    "name": "GG\u2019s",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0159156",
+    "longitude": "-80.1176056",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1252,
+    "name": "Billy\u2019s Stone Crab",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0144123",
+    "longitude": "-80.1176140",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1253,
+    "name": "Taco Shack",
+    "vendor_type": "sit down restaurant",
+    "project_id": 47,
+    "latitude": "26.0141678",
+    "longitude": "-80.1171496",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1254,
+    "name": "Golden Chicken",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.6760800",
+    "longitude": "-95.5937590",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1255,
+    "name": "Dona Mirna",
+    "vendor_type": "sit down restaurant",
+    "project_id": 48,
+    "latitude": "29.6772430",
+    "longitude": "-95.5977830",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1256,
+    "name": "Burger king",
+    "vendor_type": "fast food",
+    "project_id": 48,
+    "latitude": "29.6774860",
+    "longitude": "-95.5992240",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
+  },
+  {
+    "id": 1257,
+    "name": "Shaved Ice",
+    "vendor_type": "street vendor",
+    "project_id": 48,
+    "latitude": "29.6890404",
+    "longitude": "-95.5038875",
+    "notes": null,
+    "created_at": "2026-07-17 20:05:14"
   }
 ]

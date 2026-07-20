@@ -3262,5 +3262,149 @@
     "avg_lit_dens": "0.5600",
     "notes": null,
     "created_at": "2026-05-19 03:55:58"
+  },
+  {
+    "id": 409,
+    "site_id": 436,
+    "season_id": 47,
+    "avg_lit_dens": "1.8333",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 410,
+    "site_id": 437,
+    "season_id": 47,
+    "avg_lit_dens": "0.5367",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 411,
+    "site_id": 438,
+    "season_id": 47,
+    "avg_lit_dens": "0.5367",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 412,
+    "site_id": 439,
+    "season_id": 47,
+    "avg_lit_dens": "0.8200",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 413,
+    "site_id": 440,
+    "season_id": 47,
+    "avg_lit_dens": "0.6400",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 414,
+    "site_id": 441,
+    "season_id": 47,
+    "avg_lit_dens": "1.4550",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 415,
+    "site_id": 442,
+    "season_id": 47,
+    "avg_lit_dens": "0.3067",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 416,
+    "site_id": 443,
+    "season_id": 47,
+    "avg_lit_dens": "0.3700",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 417,
+    "site_id": 444,
+    "season_id": 47,
+    "avg_lit_dens": "0.0967",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 418,
+    "site_id": 445,
+    "season_id": 48,
+    "avg_lit_dens": "0.2367",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 419,
+    "site_id": 446,
+    "season_id": 48,
+    "avg_lit_dens": "0.2633",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 420,
+    "site_id": 447,
+    "season_id": 48,
+    "avg_lit_dens": "0.1233",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 421,
+    "site_id": 448,
+    "season_id": 48,
+    "avg_lit_dens": "0.3667",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 422,
+    "site_id": 449,
+    "season_id": 48,
+    "avg_lit_dens": "0.7367",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 423,
+    "site_id": 450,
+    "season_id": 48,
+    "avg_lit_dens": "0.2100",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 424,
+    "site_id": 451,
+    "season_id": 48,
+    "avg_lit_dens": "0.0567",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 425,
+    "site_id": 452,
+    "season_id": 48,
+    "avg_lit_dens": "0.7633",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
+  },
+  {
+    "id": 426,
+    "site_id": 453,
+    "season_id": 48,
+    "avg_lit_dens": "0.1833",
+    "notes": null,
+    "created_at": "2026-07-20 18:26:26"
   }
 ]
